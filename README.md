@@ -1,0 +1,1 @@
+Este projeto consiste em um sistema de monitoramento remoto desenvolvido em Python, utilizando sockets para comunicação entre cliente e servidor. Ele permite capturar e transmitir a tela de um computador em tempo real para outro dispositivo.

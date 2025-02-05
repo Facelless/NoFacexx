@@ -29,13 +29,13 @@ pip install -r requirements.txt
 ### 🖥️ Iniciando o Servidor
 
 ```bash
-python server.py
+python main.py
 ```
 
 ### 💻 Iniciando o Cliente
 
 ```bash
-python client.py
+python server.py
 ```
 
 ## 📖 Como Funciona
